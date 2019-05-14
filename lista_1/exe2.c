@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+/*mplemente um programa que, infinitamente, receba, como parâmetro de entrada, um número n e retorne os n primeiros números primos existentes. Seu programa para quando n for menor ouigual a zero.*/
+
 int main(){
 	int n = 1;
 	int i,j,num;
@@ -28,7 +30,7 @@ int main(){
 					
 				} else nprimos = nprimos+1;		
 				count = 1;
-			}
+			o}
 		
 			
 			

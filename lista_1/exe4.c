@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/*Implemente um programa que, infinitamente, receba, como parâmetro de entrada, um númeron e retorne os nprimeiros números primos existentes depois de n. 
+Por exemplo, se n = 2, aresposta será osprimos 3 e 5. É necessário salientar que n não precisa ser primo. Seu programapara quando n for menor ou igual a zero*/
+
 int main(){
 	int n = 1;
 	
